@@ -26,6 +26,6 @@ https://redsst.com/
 
 * Leonardo Calderon J - [LeoCJJ](https://github.com/leocjj)
 
-leocjj.tech
+[leocjj.tech](http://leocjj.tech)
 
 07/30/2020
